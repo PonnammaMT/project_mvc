@@ -1,0 +1,190 @@
+.container{
+    background-color: #b3e6ff;
+    width: 300px;
+    border: 2px solid white;
+    padding: 50px;
+    margin: 20px;
+    position:relative;
+    left:550px;
+    top:140;
+    border-radius:25px;
+    }
+.index{
+    background-image:url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+}
+.admin-login{
+  position:relative;
+  top:-40;
+  left:50px;
+}
+.submit{
+  position:relative;
+  top:-40;
+  left:55px
+}
+.section3{
+  background-image:url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+}
+.sub{
+  padding:5px;
+  border-radius:25px;
+  border: 2px;
+  width:50%;
+  position:relative;
+  left:25px;
+  top:11;
+  
+}
+.login{
+    padding: 10px 10px;
+  }
+.navbar {
+    
+    background-color:	#b3b3ff;
+    width: 100%;
+    height:70px;
+    display:flex;
+    
+   
+}
+.search{
+  margin:10px; 
+  
+} 
+.section1{
+  position:relative;
+  left:90;
+  padding:10px; 
+  margin:60px; 
+  }
+.btn1{
+  margin-left:950px;
+  padding:8px;
+} 
+.btn3{
+  padding:8px;
+}
+.btn2{
+  padding:8px;
+}
+/* .buttons{
+   display:flex;
+}     */
+
+
+.search{
+  margin:10px; 
+  
+} 
+.btn4{
+  border-radius: 25px;
+
+}
+.btn5{
+  border-radius: 25px;
+}
+
+ 
+.log-btn{
+  color:white;
+  background-color:#b3b3ff;
+  border: none;
+  font-weight: bold; 
+}  
+.insert-btn{
+  color:white;
+  background-color: #b3b3ff;
+  border: none;
+  font-weight: bold;
+} 
+.view-btn{
+  color:white;
+  background-color:#b3b3ff;
+  border: none;
+  font-weight: bold;
+}    
+.container3{
+  background-color:#d9d9d9;
+  width: 500px;
+  border: 2px solid white;
+  padding: 10px;
+  margin: 20px;
+  position:relative;
+  left:500px;
+  border-radius: 25px;
+  font-size: medium;
+  text-align:center;
+}
+.file{
+   margin-left:110px; 
+  
+}
+h2{
+  margin-top:2%;
+  padding:10px;
+  position: relative;
+  left:12;
+}
+.section{
+    background-color: #f2ecfa;
+    width: 300px;
+    border: 3px solid white;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+    position:relative;
+    left:550px;
+    padding: 15px 32px;
+    border-radius:25px;
+    height:200px;
+  }
+
+.btn{
+  display: inline-flex;
+  padding: 10px 10px;
+  border:none;
+
+}
+button:hover{
+  background-color:#ccb3ff;
+}
+
+
+.admin{
+  display: inline-block;
+  position: relative;
+  left:40px;
+  padding: 10px 10px;
+  border:none;
+}
+.update{
+  background-color:#66c2ff;
+  width: 400px;
+  border: 5px solid #007acc;
+  padding: 50px;
+  margin: 20px;
+  position:relative;
+  left:500px;
+  border-radius:25px;
+  text-align: center;
+}
+.table, th, td{
+  border: 1px solid black;
+}
+
+.modify{
+  background-image:url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+}
+.data1{
+  background-image:url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+  
+}
+.buttons{
+  display:flex;
+  margin-left:60px;
+}
+
+  
+
+
+
